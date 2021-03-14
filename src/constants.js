@@ -1,0 +1,1 @@
+export const WEATHER_API_KEY = '07142725d2c1678f795f044d023b374f';
